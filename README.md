@@ -1,6 +1,7 @@
-# Zoo Function
+## Zoo Function
 
-This project was made at the end of block 8, in which I studied _High Order Functions in JavaScript ES6_.
+This project was made at the end of block 8, in which I studied 
+_High Order Functions in JavaScript ES6_.
 
 ![example of codes](https://user-images.githubusercontent.com/99998543/163870881-000bef4f-88e1-4f5f-9c12-5223a4bd102e.png)
 
