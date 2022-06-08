@@ -11,8 +11,11 @@ This project consisted in creating several functions to meet the evaluated requi
 
 Also, it was necessary to read and reflect on the tests created with __Jest__ so that it was possible to understand all the features developed by the functions.
 
-  
-
-------------------------------------------------
-
+ ---------------
+> It's important to highlight that only the documents produced by me are
+> in the repository. For some of the projects, Trybe, which is the
+> course that I'm following, gives us some functions/objects/styling
+> that helps us to conclude the project, so the repository may seem
+> incomplete.
+---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
