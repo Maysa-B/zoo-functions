@@ -11,7 +11,7 @@ This project consisted in creating several functions to meet the evaluated requi
 
 Also, it was necessary to read and reflect on the tests created with __Jest__ so that it was possible to understand all the features developed by the functions.
 
-  
+> It's important to highlight that some documents were provided by Trybe, to help us develop the project. This kind of document has a comment specifying that.  
 
 ------------------------------------------------
 
